@@ -1,0 +1,15 @@
+<mydata>
+     <folders>        
+             <folder name="Second Folder">                 
+             </folder>
+     </folders>
+
+
+
+
+     <tags>
+         <tag name="mytag1"/>
+         <tag name="mytag2"/>
+         <tag name="mytagN"/>
+     </tags>
+</mydata>
